@@ -31,20 +31,21 @@ Below: **jumpable TOC**, **tables for every category (all references)**, and a *
 
 ```mermaid
 graph TD
-  A[Agentic Reasoning]:::root --> B[Planning]:::sec
-  A --> C[Tool Use & Integration]:::sec
-  A --> D[RAG]:::sec
-  A --> E[Execution]:::sec
-  A --> F[Feedback & Reflection]:::sec
-  A --> G[Memory]:::sec
-  A --> H[Multi-Agent Collaboration]:::sec
-  A --> I[Applications & Benchmarks]:::sec
+  A[Agentic Reasoning]
+  A --> B[Planning]
+  A --> C[Tool Use & Integration]
+  A --> D[Retrieval-Augmented Generation]
+  A --> E[Execution]
+  A --> F[Feedback & Reflection]
+  A --> G[Memory]
+  A --> H[Multi-Agent Collaboration]
+  A --> I[Applications & Benchmarks]
 
   B --> B1[Workflow / SOPs]
-  B --> B2[Tree / MCTS / Beam]
-  B --> B3[PDDL / Code-as-Plan]
-  B --> B4[Decoupling / Decomposition]
-  B --> B5[External Aids / World Models]
+  B --> B2[Tree Search, MCTS, Beam]
+  B --> B3[PDDL, Code-as-Plan]
+  B --> B4[Decomposition]
+  B --> B5[External Aids, World Models]
   B --> B6[Reward & Control]
 
   C --> C1[In-Context Tools]
@@ -53,7 +54,7 @@ graph TD
 
   D --> D1[In-Context RAG]
   D --> D2[Post-Training RAG]
-  D --> D3[Structure-Enhanced RAG]
+  D --> D3[Structured RAG]
 
   E --> E1[Reactive]
   E --> E2[Hierarchical]
@@ -61,20 +62,17 @@ graph TD
   E --> E4[Model-Based]
 
   F --> F1[Self-Reflection & Retry]
-  F --> F2[Offline Tuning]
+  F --> F2[Offline Fine-Tuning]
   F --> F3[Minimalist Retry]
 
-  G --> G1[Passive → Active]
+  G --> G1[Passive to Active]
   G --> G2[Memory-Augmented]
   G --> G3[Reasoning-Guided]
   G --> G4[Structured]
 
-  H --> H1[Static (Hierarchy/Pipeline/Roles)]
-  H --> H2[Dynamic (Adaptive Graphs / RL)]
+  H --> H1[Static: Hierarchy, Pipeline, Roles]
+  H --> H2[Dynamic: Adaptive Graphs, RL]
   H --> H3[LLM Orchestration]
-
-classDef root fill:#111,stroke:#555,color:#fff,rx:8,ry:8;
-classDef sec fill:#1f6feb,stroke:#0d419d,color:#fff,rx:6,ry:6;
 ```
 
 ---
