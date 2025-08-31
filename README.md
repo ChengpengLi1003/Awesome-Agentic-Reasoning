@@ -1,4 +1,3 @@
-# Awesome-Agentic-Reasoning
 
 # Awesome Agentic Reasoning (Survey 2025) ✨
 
