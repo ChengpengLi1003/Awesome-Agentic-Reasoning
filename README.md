@@ -177,6 +177,9 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 ### 🔄 4.1 Agentic Feedback Mechanisms
 
+![feed](figs/feedback.png)
+
+
 #### 4.1.1 Reflective Feedback
 
 | Paper | Venue | Link |
@@ -197,6 +200,9 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 ### 🧠 4.2 Agentic Memory
 
+![mem](figs/memory.png)
+
+
 #### 4.2.1 Agentic Use of Memory
 
 | Paper | Venue | Link |
@@ -216,6 +222,8 @@ Across these layers, we further identify complementary reasoning paradigms defin
 | Paper Title | Venue Year | [Paper]() [Code]() |
 
 ### 🚀 4.3 Evolving Foundational Agentic Capabilities
+
+![mem](figs/evolving.png)
 
 #### 4.3.1 Self-evolving Planning
 
@@ -241,6 +249,8 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 ### 🎭 5.1 Role Taxonomy of Multi-Agent Systems (MAS)
 
+![mem](figs/mas.png)
+
 #### 5.1.1 Generic Roles
 
 | Paper | Venue | Link |
@@ -255,6 +265,9 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 ### 🤝 5.2 Collaboration and Division of Labor
 
+![collab](figs/multi-agent-collab.png)
+
+
 #### 5.2.1 In-context Collaboration
 
 | Paper | Venue | Link |
@@ -268,6 +281,8 @@ Across these layers, we further identify complementary reasoning paradigms defin
 | Paper Title | Venue Year | [Paper]() [Code]() |
 
 ### 🌱 5.3 Multi-Agent Evolution
+
+![mmem](figs/multi-agent memory.png)
 
 #### 5.3.1 From Single-Agent Evolution to Multi-Agent Evolution
 
@@ -290,6 +305,9 @@ Across these layers, we further identify complementary reasoning paradigms defin
 ---
 
 ## 6. 🎨 Applications
+
+![app](figs/application.png)
+
 
 ### 💻 6.1 Math Exploration & Vibe Coding Agents
 
@@ -324,6 +342,9 @@ Across these layers, we further identify complementary reasoning paradigms defin
 ---
 
 ## 7. 📊 Benchmarks
+
+![bench](figs/benchmark.png)
+
 
 ### ⚙️ 7.1 Core Mechanisms of Agentic Reasoning
 
