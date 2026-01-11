@@ -88,11 +88,11 @@ Bridging thought and action through autonomous agents that reason, act, and lear
 
 We organize agentic reasoning into three layers, each corresponding to a distinct reasoning paradigm under different *environmental dynamics*:
 
-🔹 **Foundational.** Core single-agent abilities (planning, tool-use, search) in stable environments
+🔹 **Foundational Reasoning.** Core single-agent abilities (planning, tool-use, search) in stable environments
 
-🔹 **Self-Evolving.** Adaptation through feedback, memory, and learning in dynamic settings
+🔹 **Self-Evolving Reasoning.** Adaptation through feedback, memory, and learning in dynamic settings
 
-🔹 **Collective.** Multi-agent coordination, role specialization, and collaborative intelligence
+🔹 **Collective Reasoning.** Multi-agent coordination, role specialization, and collaborative intelligence
 
 Across these layers, we further identify complementary reasoning paradigms defined by their *optimization settings*.
 
