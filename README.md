@@ -653,7 +653,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | --- | --- |
 | [Learning Multi-Agent Communication from Graph Modeling Perspective](https://arxiv.org/abs/2405.08550) | ArXiv 2024 |
 | [G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks](https://arxiv.org/abs/2410.11782) | ArXiv 2024 |
-| [Graph Diffusion for Robust Multi-Agent Coordination](https://icml.cc/) | ICML 2025 |
+| [Graph Diffusion for Robust Multi-Agent Coordination](https://openreview.net/forum?id=T5IZ32ImAB) | ICML 2025 |
 | [Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2410.02506) | ArXiv 2024 |
 | [Adaptive Graph Pruning for Multi-Agent Communication](https://arxiv.org/abs/2506.02951) | ArXiv 2025 |
 | [G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-Agent Systems](https://arxiv.org/abs/2502.11127) | ArXiv 2025 |
@@ -674,7 +674,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [LLM Collaboration with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.04652) | ArXiv 2025 |
 | [Heterogeneous Group-Based Reinforcement Learning for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2506.02718) | ArXiv 2025 |
 | [Enhancing Multi-Agent Systems via Reinforcement Learning with LLM-based Planner and Graph-based Policy](https://arxiv.org/abs/2503.10049) | ArXiv 2025 |
-| [LAMARL: LLM-Aided Multi-Agent Reinforcement Learning for Cooperative Policy Generation](https://www.google.com/search?q=https://ieeexplore.ieee.org/document/10856950) | IEEE RA-L 2025 |
+| [LAMARL: LLM-Aided Multi-Agent Reinforcement Learning for Cooperative Policy Generation](https://arxiv.org/abs/2506.01538) | IEEE RA-L 2025 |
 | [MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning](https://arxiv.org/abs/2502.18439) | ArXiv 2025 |
 | [Reflective Multi-Agent Collaboration Based on Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f7ae4fe91d96f50abc2211f09b6a7e49-Abstract-Conference.html) | NeurIPS 2024 |
 | [Sirius: Self-Improving Multi-Agent Systems via Bootstrapped Reasoning](https://arxiv.org/abs/2502.04780) | ArXiv 2025 |
@@ -975,7 +975,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [CaPo: Cooperative Plan Optimization for Multi-Agent Collaboration](https://arxiv.org/abs/2403.06093) | ArXiv 2024 |
 | [Coherent: Collaboration of heterogeneous robots via nature-language-based team reasoning](https://arxiv.org/abs/2405.00693) | ArXiv 2024 |
 | [Theory of mind for multi-agent collaboration via large language models](https://arxiv.org/abs/2310.10701) | ArXiv 2023 |
-| [How large language models encode theory-of-mind: a study on sparse parameter patterns](https://www.google.com/search?q=https://www.nature.com/articles/s44247-025-00020-x) | npj Artificial Intelligence 2025 |
+| [How large language models encode theory-of-mind: a study on sparse parameter patterns](https://www.nature.com/articles/s44387-025-00031-9) | npj Artificial Intelligence 2025 |
 | [Hypothetical Minds: Scaffolding theory of mind for multi-agent tasks with large language models](https://arxiv.org/abs/2407.07086) | ArXiv 2024 |
 | [MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Collaborative Learning](https://arxiv.org/abs/2411.12977) | ArXiv 2024 |
 | [EMAC+: Enhanced Multimodal Agent for Continuous and Cooperative Tasks](https://arxiv.org/abs/2501.10705) | ArXiv 2025 |
