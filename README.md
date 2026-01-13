@@ -693,8 +693,8 @@ If you find this repository or paper useful, please consider citing the survey p
 | Paper | Venue |
 | --- | --- |
 | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) | NeurIPS 2023 |
-| [Self-Refine: Iterative Refinement with Self-Feedback](https://www.google.com/search?q=https://proceedings.neurips.cc/paper_files/paper/2023/hash/91edff07232fb515152834022020e119-Abstract-Conference.html) | NeurIPS 2023 |
-| [AdaPlanner: Adaptive Planning from Feedback with Language Models](https://www.google.com/search?q=https://proceedings.neurips.cc/paper_files/paper/2023/hash/b6d601550c4767222530269092055655-Abstract-Conference.html) | NeurIPS 2023 |
+| [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651) | NeurIPS 2023 |
+| [AdaPlanner: Adaptive Planning from Feedback with Language Models](https://arxiv.org/abs/2305.16653) | NeurIPS 2023 |
 | [TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution](https://arxiv.org/abs/2402.01586) | TiFA 2024 |
 | [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943) | ArXiv 2025 |
 | [TTRL: Test-Time Reinforcement Learning](https://arxiv.org/abs/2504.16084) | ArXiv 2025 |
@@ -705,13 +705,13 @@ If you find this repository or paper useful, please consider citing the survey p
 | Paper | Venue |
 | --- | --- |
 | [Self: Self-Evolution with Language Feedback](https://arxiv.org/abs/2310.00533) | ArXiv 2023 |
-| [STaR: Bootstrapping Reasoning with Reasoning](https://www.google.com/search?q=https://proceedings.neurips.cc/paper_files/paper/2022/hash/670e8a43b246801ca1eaca97b3e19189-Abstract-Conference.html) | NeurIPS 2022 |
+| [STaR: Bootstrapping Reasoning with Reasoning](https://arxiv.org/abs/2203.14465) | NeurIPS 2022 |
 | [Reasoning Beyond Limits: Advances and Open Problems for LLMs](https://arxiv.org/abs/2503.22732) | ArXiv 2025 |
 | [RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2504.20073) | ArXiv 2025 |
 | [DYSTIL: Dynamic Strategy Induction with Large Language Models for Reinforcement Learning](https://arxiv.org/abs/2505.03209) | ArXiv 2025 |
 | [WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning](https://arxiv.org/abs/2411.02337) | ArXiv 2024 |
 | [Why do animals need shaping? A theory of task composition and curriculum learning](https://arxiv.org/abs/2402.18361) | ArXiv 2024 |
-| [SAGE: Self-evolving Agents with Reflective and Memory-augmented Abilities](https://www.google.com/search?q=https://doi.org/10.1016/j.neucom.2025.130470) | Neurocomputing 2025 |
+| [SAGE: Self-evolving Agents with Reflective and Memory-augmented Abilities](https://dl.acm.org/doi/10.1016/j.neucom.2025.130470) | Neurocomputing 2025 |
 | [MemInsight: Autonomous Memory Augmentation for LLM Agents](https://arxiv.org/abs/2503.21760) | ArXiv 2025 |
 | [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) | ArXiv 2024 |
 
@@ -737,10 +737,10 @@ If you find this repository or paper useful, please consider citing the survey p
 | --- | --- |
 | [G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](https://arxiv.org/abs/2506.07398) | ArXiv 2025 |
 | [Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory](https://arxiv.org/abs/2508.08997) | ArXiv 2025 |
-| [DAMCS: Dynamic Adaptive Multi-agent Collaborative System with Hierarchical Knowledge Graph Memory](https://arxiv.org/abs/2507.03948) | ArXiv 2025 |
+| [LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning](https://arxiv.org/abs/2502.05453) | ArXiv 2025 |
 | [SEDM: Scalable Self-Evolving Distributed Memory for Agents](https://arxiv.org/abs/2509.09498) | ArXiv 2025 |
-| [Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control](https://arxiv.org/abs/2505.17608) | ArXiv 2025 |
-| [Memory Sharing for Large Language Model based Agents](https://arxiv.org/abs/2404.10045) | ArXiv 2024 |
+| [Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control](https://arxiv.org/abs/2505.18279) | ArXiv 2025 |
+| [Memory Sharing for Large Language Model based Agents](https://arxiv.org/abs/2404.09982) | ArXiv 2024 |
 | [MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957) | ArXiv 2025 |
 | [LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation](https://arxiv.org/abs/2510.04851) | ArXiv 2025 |
 | [MAPLE: Multi-Agent Adaptive Planning with Long-Term Memory for Table Reasoning](https://aclanthology.org/2025.alta-main.10/) | ALTA 2025 |
