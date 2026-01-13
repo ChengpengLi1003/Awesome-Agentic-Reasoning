@@ -684,7 +684,7 @@ If you find this repository or paper useful, please consider citing the survey p
 
 ### 🌱 Multi-Agent Evolution
 
-![mmem](figs/multi-agent memory.png)
+![mem](figs/multi-agent-memory.png)
 
 #### From Single-Agent Evolution to Multi-Agent Evolution
 
