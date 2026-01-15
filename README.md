@@ -236,7 +236,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Non-Myopic Generation of Language Models for Reasoning](https://arxiv.org/abs/2410.17195) | ArXiv 2024 |
 | [Physics-Informed Temporal Difference Metric Learning](https://arxiv.org/abs/2505.05691) | ArXiv 2025 |
 | [Generalizable Motion Planning via Operator Learning](https://arxiv.org/abs/2410.17547) | ArXiv 2024 |
-| [ToolOrchestra: Elevating Intelligence via Efficient Model](https://arxiv.org/abs/2511.21689) | 2025 |
+| [ToolOrchestra: Elevating Intelligence via Efficient Model](https://arxiv.org/abs/2511.21689) | ArXiv 2025 |
 | [Latent Diffusion Planning for Imitation Learning](https://arxiv.org/abs/2504.16925) | ArXiv 2025 |
 | [SafeDiffuser: Safe Planning with Diffusion Probabilistic Models](https://openreview.net/forum?id=ig2wk7kK9J) | ICLR 2023 |
 | [ContraDiff: Planning Towards High Return States](https://openreview.net/forum?id=XMOaOigOQo) | ICLR 2025 |
@@ -355,14 +355,14 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511) | NeurIPS Workshop 2023 |
 | [Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-Adaptive Planning Agent](https://arxiv.org/abs/2411.02937) | ArXiv 2024 |
 | [DeepRAG: Thinking to Retrieve Step by Step for Large Language Models](https://arxiv.org/abs/2502.01142) | ArXiv 2025 |
-| [MC-Search: Benchmarking Multimodal Agentic RAG with Structured Reasoning Chains](https://www.google.com/search?q=https://openreview.net/forum%3Fid%3D9k5wD7b5X2) | NeurIPS Workshop 2025 |
+| [MC-Search: Benchmarking Multimodal Agentic RAG with Structured Reasoning Chains](https://openreview.net/forum?id=S2zaYgT7Ic) | NeurIPS Workshop 2025 |
 
 ##### Structure-Enhanced Search
 
 | Paper | Venue |
 | --- | --- |
-| [Agent-G: An Agentic Framework for Graph Retrieval Augmented Generation](https://www.google.com/search?q=https://arxiv.org/abs/2407.00000) | ArXiv |
-| [MC-Search: Benchmarking Multimodal Agentic RAG with Structured Reasoning Chains](https://www.google.com/search?q=https://openreview.net/forum%3Fid%3D9k5wD7b5X2) | NeurIPS Workshop 2025 |
+| [Agent-G: An Agentic Framework for Graph Retrieval Augmented Generation](https://openreview.net/forum?id=g2C947jjjQ) | 2025 |
+| [MC-Search: Benchmarking Multimodal Agentic RAG with Structured Reasoning Chains](https://openreview.net/forum?id=S2zaYgT7Ic) | NeurIPS Workshop 2025 |
 | [GeAR: Graph-Enhanced Agent for Retrieval-Augmented Generation](https://arxiv.org/abs/2412.18431) | ArXiv 2024 |
 | [Learning to Retrieve and Reason on Knowledge Graph through Active Self-Reflection](https://arxiv.org/abs/2502.14932) | ArXiv 2025 |
 
@@ -374,23 +374,23 @@ If you find this repository or paper useful, please consider citing the survey p
 | Paper | Venue |
 | --- | --- |
 | [Toolformer: Language Models Can Teach Themselves to Use Tools](https://proceedings.neurips.cc/paper_files/paper/2023/file/d842425e4bf79ba039352da0f658a906-Paper-Conference.pdf) | NeurIPS 2023 |
-| [INTERS: Unlocking the power of large language models in search with instruction tuning](https://www.google.com/search?q=https://arxiv.org/abs/2401.06532) | ArXiv 2024 |
-| [RAG-Studio: Towards In-Domain Adaptation of Retrieval Augmented Generation through Self-Alignment](https://www.google.com/search?q=) | EMNLP (Findings) 2024 |
-| [RAFT: Adapting Language Model to Domain Specific RAG](https://www.google.com/search?q=https://arxiv.org/abs/2403.10131) | ArXiv 2024 |
-| [Search-o1: Agentic search-enhanced large reasoning models](https://www.google.com/search?q=https://arxiv.org/abs/2501.05366) | ArXiv 2025 |
-| [RA-DIT: Retrieval-Augmented Dual Instruction Tuning](https://www.google.com/search?q=) | ICLR 2023 |
-| [SFR-RAG: Towards Contextually Faithful LLMs](https://www.google.com/search?q=https://arxiv.org/abs/2409.09916) | ArXiv 2024 |
+| [INTERS: Unlocking the power of large language models in search with instruction tuning](https://arxiv.org/abs/2401.06532) | ArXiv 2024 |
+| [RAG-Studio: Towards In-Domain Adaptation of Retrieval Augmented Generation through Self-Alignment](https://aclanthology.org/2024.findings-emnlp.41/) | EMNLP (Findings) 2024 |
+| [RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/abs/2403.10131) | ArXiv 2024 |
+| [Search-o1: Agentic search-enhanced large reasoning models](https://arxiv.org/abs/2501.05366) | ArXiv 2025 |
+| [RA-DIT: Retrieval-Augmented Dual Instruction Tuning](https://arxiv.org/abs/2310.01352) | ICLR 2023 |
+| [SFR-RAG: Towards Contextually Faithful LLMs](https://arxiv.org/abs/2409.09916) | ArXiv 2024 |
 
 ##### RL-Based Agentic Search
 
 | Paper | Venue |
 | --- | --- |
-| [WebGPT: Browser-assisted question-answering with human feedback](https://www.google.com/search?q=https://arxiv.org/abs/2112.09332) | ArXiv 2021 |
-| [RAG-RL: Advancing Retrieval-Augmented Generation via RL and Curriculum Learning](https://www.google.com/search?q=https://arxiv.org/abs/2503.12759) | ArXiv 2025 |
-| [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://www.google.com/search?q=https://arxiv.org/abs/2503.09516) | ArXiv 2025 |
-| [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-World Environments](https://www.google.com/search?q=https://arxiv.org/abs/2504.03160) | ArXiv 2025 |
-| [Learning to Reason with Search for LLMs via Reinforcement Learning](https://www.google.com/search?q=https://arxiv.org/abs/2503.19470) | ArXiv 2025 |
-| [ReARTeR: Retrieval-Augmented Reasoning with Trustworthy Process Rewarding](https://www.google.com/search?q=) | SIGIR 2025 |
+| [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) | ArXiv 2021 |
+| [RAG-RL: Advancing Retrieval-Augmented Generation via RL and Curriculum Learning](https://arxiv.org/abs/2503.12759) | ArXiv 2025 |
+| [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516) | ArXiv 2025 |
+| [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-World Environments](https://arxiv.org/abs/2504.03160) | ArXiv 2025 |
+| [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.19470) | ArXiv 2025 |
+| [ReARTeR: Retrieval-Augmented Reasoning with Trustworthy Process Rewarding](https://arxiv.org/abs/2501.07861) | ArXiv 2025 |
 
 ---
 
