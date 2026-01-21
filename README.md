@@ -418,13 +418,12 @@ If you find this repository or paper useful, please consider citing the survey p
 
 #### Parametric Adaptation
 
-
 | Paper | Year |
 | --- | --- |
 | [AgentTuning: Enabling Generalized Agent Abilities for LLMs](https://arxiv.org/abs/2310.12823) | 2023 |
 | [ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent](https://arxiv.org/abs/2312.10003) | 2023 |
 | [Re-ReST: Reflection-Reinforced Self-Training for Language Agents](https://arxiv.org/abs/2406.01495) | 2024 |
-| [Distilling Step-by-Step: Outperforming Larger LMs with Less Data](https://aclanthology.org/2023.acl-long.557/) | ACL 2023 |
+| [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301) | 2023 |
 | [Deep Reinforcement Learning from Human Preferences](https://arxiv.org/abs/1706.03741) | NeurIPS 2017 |
 | [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) | NeurIPS 2023 |
 | [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073) | 2022 |
@@ -525,13 +524,12 @@ If you find this repository or paper useful, please consider citing the survey p
 | --- | --- |
 | [Self-challenging language model agents](https://arxiv.org/abs/2506.01716) | 2025 |
 | [Self-rewarding language models](https://arxiv.org/abs/2401.10020) | ICML 2024 |
-| [Self Rewarding Self Improving](https://arxiv.org/abs/2505.08827) | 2025 |
+| [RLSR: Reinforcement Learning from Self Reward](https://arxiv.org/abs/2505.08827) | 2025 |
 | [Self: Self-evolution with language feedback](https://arxiv.org/abs/2310.00533) | 2023 |
 | [Training language models to self-correct via reinforcement learning](https://arxiv.org/abs/2409.12917) | 2024 |
-| [PAG: Policy Alignment with Feedback](https://arxiv.org/abs/2503.00005) | 2025 |
 | [TextGrad: Differentiable Text Feedback for Language Models](https://arxiv.org/abs/2406.07496) | 2024 |
-| [AutoRule: Converting Reasoning Traces to Reward Rules](https://arxiv.org/abs/2504.00007) | 2025 |
-| [AgentGen: Generating Interactive Environments for Agents](https://arxiv.org/abs/2402.11263) | 2024 |
+| [AutoRule: Reasoning Chain-of-thought Extracted Rule-based Rewards Improve Preference Learning](https://arxiv.org/abs/2506.15651v1) | 2025 |
+| [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764) | 2024 |
 | [Reflexion: Language agents with verbal reinforcement learning](https://arxiv.org/abs/2303.11366) | NeurIPS 2023 |
 | [Adaplanner: Adaptive planning from feedback with language models](https://openreview.net/forum?id=rnKgbKmelt) | NeurIPS 2023 |
 | [Self-refine: Iterative refinement with self-feedback](https://arxiv.org/abs/2303.17651) | NeurIPS 2023 |
@@ -548,7 +546,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models](https://aclanthology.org/2023.findings-emnlp.462/) | EMNLP 2023 |
 | [LLM Agents Making Agent Tools](https://arxiv.org/abs/2502.11705) | 2025 |
 
-#### Self-evolving Search
+#### Self-evolving Search for Memory Retrieval
 
 | Paper | Year |
 | --- | --- |
@@ -619,7 +617,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Theory of mind for multi-agent collaboration via large language models](https://arxiv.org/abs/2310.10701) | 2023 |
 | [Hypothetical Minds: Scaffolding theory of mind for multi-agent tasks with large language models](https://arxiv.org/abs/2407.07086) | 2024 |
 | [MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Collaborative Learning](https://arxiv.org/abs/2411.12977) | 2024 |
-| [How large language models encode theory-of-mind: a study on sparse parameter patterns](https://www.google.com/search?q=https://www.nature.com/articles/s44247-025-00020-x) | npj Artificial Intelligence 2025 |
+| [How large language models encode theory-of-mind: a study on sparse parameter patterns](https://www.nature.com/articles/s44387-025-00031-9) | npj Artificial Intelligence 2025 |
 | [Large Language Models as Theory of Mind Aware Generative Agents with Counterfactual Reflection](https://arxiv.org/abs/2501.15355) | 2025 |
 | [BeliefNest: A Joint Action Simulator for Embodied Agents with Theory of Mind](https://arxiv.org/abs/2505.12321) | 2025 |
 
@@ -664,7 +662,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Enhancing Multi-Agent Systems via Reinforcement Learning with LLM-based Planner and Graph-based Policy](https://arxiv.org/abs/2503.10049) | 2025 |
 | [LAMARL: LLM-Aided Multi-Agent Reinforcement Learning for Cooperative Policy Generation](https://arxiv.org/abs/2506.01538) | IEEE RA-L 2025 |
 | [MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning](https://arxiv.org/abs/2502.18439) | 2025 |
-| [Reflective Multi-Agent Collaboration Based on Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f7ae4fe91d96f50abc2211f09b6a7e49-Abstract-Conference.html) | NeurIPS 2024 |
+| [Reflective Multi-Agent Collaboration Based on Large Language Models](https://openreview.net/forum?id=wWiAR5mqXq&referrer=%5Bthe%20profile%20of%20Zeyu%20Zhang%5D(%2Fprofile%3Fid%3D~Zeyu_Zhang6)) | NeurIPS 2024 |
 | [Sirius: Self-Improving Multi-Agent Systems via Bootstrapped Reasoning](https://arxiv.org/abs/2502.04780) | 2025 |
 | [Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains](https://arxiv.org/abs/2501.05707) | 2025 |
 | [M3HF: Multi-Agent Reinforcement Learning from Multi-Phase Human Feedback of Mixed Quality](https://arxiv.org/abs/2503.02077) | 2025 |
