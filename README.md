@@ -798,7 +798,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | Paper | Year |
 | --- | --- |
 | [Evaluating Language Models for Mathematics through Interactions](https://www.pnas.org/doi/10.1073/pnas.2318124121) | PNAS 2024 |
-| [Self-Edit: Fault-Aware Code Editor for Code Generation](https://aclanthology.org/2023.acl-long.43/) | ACL 2023 |
+| [CLCL: Non-compositional Expression Detection with Contrastive Learning and Curriculum Learning](https://aclanthology.org/2023.acl-long.43/) | ACL 2023 |
 | [Is Self-Repair a Silver Bullet for Code Generation?](https://arxiv.org/abs/2306.09896) | 2024 |
 | [LeDeX: Learning to Debug with Execution Feedback](https://proceedings.neurips.cc/paper_files/paper/2024/file/3ea832724870c700f0a03c665572e2a9-Paper-Conference.pdf) | NeurIPS 2024 |
 | [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651) | NeurIPS 2023 |
