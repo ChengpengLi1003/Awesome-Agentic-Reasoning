@@ -120,13 +120,13 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Algorithm of Thoughts: Enhancing LLM Reasoning Capabilities via Algorithmic Reasoning](https://arxiv.org/abs/2308.10379) | ICML 2024 |
 | [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/abs/2303.17580) | 2023 |
 | [Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents](https://arxiv.org/abs/2305.02412) | 2023 |
-| [PERIA: A Unified Multimodal Workflow](https://arxiv.org/abs/2511.14210) | 2024 |
+| [PERIA: A Unified Multimodal Workflow](https://arxiv.org/abs/2511.14210) | 2025 |
 | [Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks](https://arxiv.org/abs/2503.09572) | 2025 |
 | [CodePlan: Repository-level Coding using LLMs and Planning](https://arxiv.org/abs/2309.12499) | FSE 2024 |
 | [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) | ICLR 2023 |
 | [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/abs/2306.06070) | NeurIPS 2023 |
 | [Wilbur: Adaptive In-Context Learning for Robust and Accurate Web Agents](https://arxiv.org/abs/2404.05902) | 2024 |
-| [Executable Code Actions Elicit Better LLM Agents](https://arxiv.org/abs/2402.10312) | ICML 2024 |
+| [Executable Code Actions Elicit Better LLM Agents](https://arxiv.org/abs/2402.01030) | ICML 2024 |
 | [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/abs/2305.15334) | 2023 |
 | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) | 2023 |
 | [CodeNav: Beyond Tool-Use to Using Real-World Codebases with LLM Agents](https://arxiv.org/abs/2402.13463) | ACL 2024 |
@@ -134,7 +134,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Enhancing LLM Reasoning with Multi-Path Collaborative Reactive and Reflection Agents](https://arxiv.org/abs/2501.00430) | 2025 |
 | [Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents](https://arxiv.org/abs/2505.09970) | 2025 |
 | [REST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent](https://arxiv.org/abs/2312.10003) | 2023 |
-| [Self-Planning Code Generation with Large Language Models](https://arxiv.org/abs/2303.06689) | TOSEM 2024 |
+| [Self-Planning Code Generation with Large Language Models](https://arxiv.org/abs/2303.06689) | TOSEM 2023 |
 | [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/abs/2207.04429) | CoRL 2022 |
 
 ##### Tree Search / Algorithm Simulation
