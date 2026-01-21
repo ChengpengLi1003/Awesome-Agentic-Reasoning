@@ -892,62 +892,58 @@ Here are the extracted citation tables grouped by their respective sections.
 
 | Paper | Year |
 | --- | --- |
-| [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691) | CoRL 2022 |
-| [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://proceedings.mlr.press/v229/rana23a.html) | CoRL 2023 |
+| [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691) | 2022 |
+| [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://proceedings.mlr.press/v229/rana23a.html) | 2023 |
 | [EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought](https://arxiv.org/abs/2305.15021) | NeurIPS 2023 |
 | [Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents](https://arxiv.org/abs/2308.07241) | ECCV 2024 |
 | [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/abs/2302.01560) | NeurIPS 2023 |
-| [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) | CoRL 2024 |
+| [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) | 2024 |
 | [Fast ECoT: Fast Embodied Chain-of-Thought for Vision-Language-Action Models](https://arxiv.org/abs/2506.07639) | 2025 |
-| [Cosmos-Reason1: Physical Commonsense with Multimodal Chain of Thought Reasoning](https://arxiv.org/abs/2501.03062) | 2025 |
-| [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](https://arxiv.org/abs/2501.12574) | 2025 |
-| [Emma-X: An Embodied Multimodal Action Model with Chain of Thought Reasoning](https://arxiv.org/abs/2412.18525) | 2024 |
-| [Robot-R1: Reinforcement Learning Enhanced Large Vision-Language Models for Robotic Manipulation](https://arxiv.org/abs/2501.19245) | 2025 |
-| [ManipLVM-R1: Learning to Reason for Robotic Manipulation via Reinforcement Learning](https://arxiv.org/abs/2502.01235) | 2025 |
-| [Embodied-R: Emergent Spatial Reasoning in Robotics via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2502.12641) | 2025 |
-| [VIKI-R: A VLM-Based Reinforcement Learning Approach for Heterogeneous Multi-Agent Cooperation](https://arxiv.org/abs/2502.06450) | 2025 |
-| [GSCE: A Prompt Framework for Enhanced Logical Reasoning in LLM-Based Drone Control](https://arxiv.org/abs/2501.00940) | 2025 |
+| [Cosmos-Reason1: Physical Commonsense with Multimodal Chain of Thought Reasoning](https://arxiv.org/abs/2503.15558) | 2025 |
+| [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](https://ieeexplore.ieee.org/abstract/document/11093669) | 2025 |
+| [Emma-X: An Embodied Multimodal Action Model with Chain of Thought Reasoning](https://arxiv.org/abs/2412.11974) | 2024 |
+| [Robot-R1: Reinforcement Learning Enhanced Large Vision-Language Models for Robotic Manipulation](https://arxiv.org/abs/2506.00070) | 2025 |
+| [ManipLVM-R1: Learning to Reason for Robotic Manipulation via Reinforcement Learning](https://arxiv.org/abs/2505.16517) | 2025 |
+| [Embodied-R: Emergent Spatial Reasoning in Robotics via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2504.12680) | 2025 |
+| [VIKI-R: A VLM-Based Reinforcement Learning Approach for Heterogeneous Multi-Agent Cooperation](https://arxiv.org/abs/2506.09049) | 2025 |
+| [GSCE: A Prompt Framework for Enhanced Logical Reasoning in LLM-Based Drone Control](https://arxiv.org/abs/2502.12531v2) | 2025 |
 | [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://arxiv.org/abs/2206.08853) | NeurIPS 2022 |
-| [Physical AI Agents: Integrating Generative AI, Symbolic AI and Robotics](https://arxiv.org/abs/2501.07720) | 2025 |
+| [Physical AI Agents: Integrating Generative AI, Symbolic AI and Robotics](https://arxiv.org/abs/2501.08944) | 2025 |
 | [Chat with the Environment: Interactive Multimodal Perception using Large Language Models](https://arxiv.org/abs/2303.08268) | IROS 2023 |
-| [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691) | CoRL 2022 |
-| [Leo: An embodied generalist agent in 3d world](https://arxiv.org/abs/2311.12871) | ICML 2024 |
-| [Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models](https://arxiv.org/abs/2501.12749) | 2025 |
-| [Gemini Robotics: Bringing AI to the Physical World](https://arxiv.org/abs/2502.02898) | 2025 |
+| [An embodied generalist agent in 3d world](https://arxiv.org/abs/2311.12871) | ICML 2024 |
+| [Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models](https://arxiv.org/abs/2502.19417) | 2025 |
+| [Gemini Robotics: Bringing AI to the Physical World](https://arxiv.org/abs/2503.20020) | 2025 |
 | [Octopus: Embodied Vision-Language Programmer from Environmental Feedback](https://arxiv.org/abs/2310.08588) | ECCV 2024 |
-| [CaPo: Cooperative Plan Optimization for Multi-Agent Collaboration](https://arxiv.org/abs/2403.06093) | 2024 |
-| [Coherent: Collaboration of heterogeneous robots via nature-language-based team reasoning](https://arxiv.org/abs/2405.00693) | 2024 |
+| [CaPo: Cooperative Plan Optimization for Multi-Agent Collaboration](https://arxiv.org/abs/2411.04679) | 2024 |
+| [COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models](https://ieeexplore.ieee.org/document/11127808) | ICRA 2025 |
 | [MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception](https://arxiv.org/abs/2312.07472) | CVPR 2024 |
 | [LLM-Planner: Few-Shot Grounded High-Level Planning for Embodied Agents with Large Language Models](https://arxiv.org/abs/2212.04088) | ICCV 2023 |
 | [EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought](https://arxiv.org/abs/2305.15021) | NeurIPS 2023 |
 | [L3MVN: Leveraging Large Language Models for Visual Target Navigation](https://arxiv.org/abs/2304.05501) | 2023 |
 | [SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments](https://arxiv.org/abs/2309.04077) | ICAPS 2023 |
 | [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://proceedings.mlr.press/v229/rana23a.html) | CoRL 2023 |
-| [ReMEmbR: Building and Reasoning with Long-Horizon Spatio-Temporal Memory for Embodied Agents](https://arxiv.org/abs/2501.07421) | 2025 |
-| [Embodied-RAG: General Non-parametric Embodied Memory for Retrieval-Augmented Generation](https://arxiv.org/abs/2409.18244) | 2024 |
-| [EmbodiedRAG: Retrieval-Augmented Generation for Embodied Agents](https://arxiv.org/abs/2410.15082) | 2024 |
-| [Retrieval-Augmented Embodied Agents](https://arxiv.org/abs/2407.16733) | 2024 |
-| [MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents](https://arxiv.org/abs/2412.16660) | 2024 |
+| [ReMEmbR: Building and Reasoning with Long-Horizon Spatio-Temporal Memory for Embodied Agents](https://arxiv.org/abs/2409.13682) | 2025 |
+| [Embodied-RAG: General Non-parametric Embodied Memory for Retrieval-Augmented Generation](https://openreview.net/forum?id=tZWwK7Si4A) | NeurIPS Workshop AFM 2024 |
+| [Retrieval-Augmented Embodied Agents](https://arxiv.org/abs/2404.11699) | 2024 |
+| [MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents](https://arxiv.org/abs/2410.03450) | 2024 |
 
 #### Self-evolving Agentic Reasoning
 
 | Paper | Year |
 | --- | --- |
-| [LLM-Empowered Embodied Agent with Memory-Augmented Planning](https://arxiv.org/abs/2412.18260) | 2024 |
+| [LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics](https://arxiv.org/abs/2504.21716) | 2024 |
 | [Optimus-1: Hybrid Multimodal Memory Empowered Agents for Long-Horizon Tasks in Minecraft](https://arxiv.org/abs/2408.03615) | 2024 |
 | [Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models](https://arxiv.org/abs/2310.15127) | EMNLP 2023 |
-| [Endowing Embodied Agents with Spatial Intelligence by Brain-Inspired Memory](https://arxiv.org/abs/2501.08253) | 2025 |
-| [Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents](https://arxiv.org/abs/2408.06877) | 2024 |
-| [ELLA: Embodied Social Agents with Long-Term Multimodal Memory](https://arxiv.org/abs/2502.13119) | 2025 |
+| [Endowing Embodied Agents with Spatial Reasoning Capabilities for Vision-and-Language Navigation](https://arxiv.org/abs/2504.08806) | 2025 |
+| [Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents](https://arxiv.org/abs/2308.07241) | 2024 |
+| [Ella: Embodied Social Agents with Lifelong Memory](https://arxiv.org/abs/2506.24019) | 2025 |
 | [Chat with the Environment: Interactive Multimodal Perception using Large Language Models](https://arxiv.org/abs/2303.08268) | IROS 2023 |
-| [Strangers to Assistants: Fast Desire Alignment for Embodied Agents via Minimal Feedback](https://arxiv.org/abs/2502.04690) | 2025 |
-| [Robots That Ask for Help: Uncertainty Alignment for Large Language Model Planners](https://arxiv.org/abs/2309.01582) | CoRL 2023 |
+| [From Strangers to Assistants: Fast Desire Alignment for Embodied Agent-User Adaptation](https://arxiv.org/abs/2505.22503v1) | 2025 |
+| [Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners](https://arxiv.org/abs/2307.01928) | CoRL 2023 |
 | [Octopus: Embodied Vision-Language Programmer from Environmental Feedback](https://arxiv.org/abs/2310.08588) | ECCV 2024 |
 | [MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Collaborative Learning](https://arxiv.org/abs/2411.12977) | 2024 |
-| [Efficient LLM Grounding for Embodied Multi-Agent Collaboration](https://arxiv.org/abs/2410.16548) | 2024 |
-| [Optimus-1: Hybrid Multimodal Memory Empowered Agents for Long-Horizon Tasks in Minecraft](https://arxiv.org/abs/2408.03615) | 2024 |
-| [Self-Correction for Humanoid Robots via LLM-Based Agentic Workflows](https://arxiv.org/abs/2502.04351) | 2025 |
-| [EMAC+: Enhanced Multimodal Agent for Continuous and Cooperative Tasks](https://arxiv.org/abs/2501.10705) | 2025 |
+| [Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration](https://arxiv.org/abs/2405.14314) | 2024 |
+| [EMAC+: Embodied Multimodal Agent for Collaborative Planning with VLM+LLM](https://arxiv.org/abs/2505.19905) | 2025 |
 | [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) | 2023 |
 
 #### Collective multi-agent reasoning
@@ -955,15 +951,15 @@ Here are the extracted citation tables grouped by their respective sections.
 | Paper | Year |
 | --- | --- |
 | [Smart-LLM: Smart Multi-Agent Robot Task Planning with Large Language Models](https://arxiv.org/abs/2309.10062) | 2024 |
-| [CaPo: Cooperative Plan Optimization for Multi-Agent Collaboration](https://arxiv.org/abs/2403.06093) | 2024 |
-| [Coherent: Collaboration of heterogeneous robots via nature-language-based team reasoning](https://arxiv.org/abs/2405.00693) | 2024 |
+| [CaPo: Cooperative Plan Optimization for Multi-Agent Collaboration](https://arxiv.org/abs/2411.04679) | 2024 |
+| [COHERENT: Collaboration of Heterogeneous Multi-Robot System with Large Language Models](https://ieeexplore.ieee.org/document/11127808) | ICRA 2025 |
 | [Theory of mind for multi-agent collaboration via large language models](https://arxiv.org/abs/2310.10701) | 2023 |
 | [How large language models encode theory-of-mind: a study on sparse parameter patterns](https://www.nature.com/articles/s44387-025-00031-9) | npj Artificial Intelligence 2025 |
 | [Hypothetical Minds: Scaffolding theory of mind for multi-agent tasks with large language models](https://arxiv.org/abs/2407.07086) | 2024 |
 | [MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Collaborative Learning](https://arxiv.org/abs/2411.12977) | 2024 |
-| [EMAC+: Enhanced Multimodal Agent for Continuous and Cooperative Tasks](https://arxiv.org/abs/2501.10705) | 2025 |
-| [COMBO: Compositional World Models for Embodied Multi-Agent Cooperation](https://arxiv.org/abs/2502.02534) | 2025 |
-| [VIKI-R: A VLM-Based Reinforcement Learning Approach for Heterogeneous Multi-Agent Cooperation](https://arxiv.org/abs/2502.06450) | 2025 |
+| [EMAC+: Embodied Multimodal Agent for Collaborative Planning with VLM+LLM](https://arxiv.org/abs/2505.19905) | 2025 |
+| [COMBO: Compositional World Models for Embodied Multi-Agent Cooperation](https://arxiv.org/abs/2404.10775) | 2025 |
+| [VIKI-R: A VLM-Based Reinforcement Learning Approach for Heterogeneous Multi-Agent Cooperation](https://arxiv.org/abs/2506.09049) | 2025 |
 | [RoCo: Dialectic Multi-Robot Collaboration with Large Language Models](https://arxiv.org/abs/2307.04738) | 2024 |
 
 ### 🏥 Healthcare & Medicine Agents
