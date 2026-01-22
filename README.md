@@ -1381,4 +1381,4 @@ This repository is licensed under the MIT License.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=weitianxin/Awesome-Agentic-Reasoning&type=Date)](https://star-history.com/#weitianxin/Awesome-Agentic-Reasoning&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=weitianxin/Awesome-Agentic-Reasoning&type=Date&from=2026-01-15)](https://star-history.com/#weitianxin/Awesome-Agentic-Reasoning&Date)
