@@ -247,6 +247,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [ContraDiff: Planning Towards High Return States via Contrastive Learning](https://openreview.net/forum?id=XMOaOigOQo) | ICLR 2025 |
 | [Amortized Planning with Large-Scale Transformers: A Case Study on Chess](https://arxiv.org/abs/2402.04494) | NeurIPS 2024 |
 | [GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models](https://arxiv.org/abs/2310.20025) | 2023 |
+| [A Goal Without a Plan Is Just a Wish: Efficient and Effective Global Planner Training for Long-Horizon Agent Tasks](https://arxiv.org/abs/2510.05608) | 2025 |
 
 
 ### 🛠️ Tool-Use Optimization
@@ -293,14 +294,13 @@ If you find this repository or paper useful, please consider citing the survey p
 | [ADaPT: As-Needed Decomposition and Planning with Language Models](https://arxiv.org/abs/2311.05772) | 2023 |
 | [Agent Lumos: Unified and Modular Training for Open-Source Language Agents](https://arxiv.org/abs/2311.05657) | 2023 |
 | [Learning to Use Tools via Cooperative and Interactive Agents](https://arxiv.org/abs/2403.03031) | 2024 |
-| [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) | NeurIPS 2023 |
 | [Understanding the Effects of RLHF on LLM Generalisation and Diversity](https://arxiv.org/abs/2310.06452) | 2023 |
 | [Preserving Diversity in Supervised Fine-Tuning of Large Language Models](https://arxiv.org/abs/2408.16673) | 2024 |
 | [Attribute Controlled Fine-tuning for Large Language Models: A Case Study on Detoxification](https://arxiv.org/abs/2410.05559) | EMNLP 2024 |
 | [Transformer Copilot: Learning from The Mistake Log in LLM Fine-tuning](https://arxiv.org/abs/2505.16270) | 2025 |
 | [iTool: Reinforced Fine-Tuning with Dynamic Deficiency Calibration for Advanced Tool Use](https://arxiv.org/abs/2501.09766v5) | 2025 |
-| [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958) | 2025 |
-| [Demystifying Reinforcement Learning in Agentic Reasoning](https://arxiv.org/abs/2510.11701) | 2025 |
+| [START: Self-taught Reasoner with Tools](https://arxiv.org/abs/2503.04625) | 2025 |
+
 
 ##### Mastery of Tool Use via RL
 
@@ -308,9 +308,17 @@ If you find this repository or paper useful, please consider citing the survey p
 | --- | --- |
 | [SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution](https://arxiv.org/abs/2502.18449) | 2025 |
 | [SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement](https://arxiv.org/abs/2410.20285) | 2024 |
+| [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958) | 2025 |
 | [RLVMR: Reinforcement Learning with Verifiable Meta-Reasoning Rewards for Robust Long-Horizon Agents](https://arxiv.org/abs/2507.22844) | 2025 |
 | [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516) | 2025 |
 | [AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning](https://arxiv.org/abs/2512.13278) | 2025 |
+| [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.19470) | 2025 |
+| [Agentic Reinforced Policy Optimization](https://arxiv.org/abs/2507.19849) | 2025 |
+| [Agentic Entropy-Balanced Policy Optimization](https://arxiv.org/abs/2510.14545) | 2025 |
+| [Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning](https://arxiv.org/abs/2505.16410) | 2025 |
+| [DeepAgent: A General Reasoning Agent with Scalable Toolsets](https://arxiv.org/pdf/2510.216180) | 2025 |
+| [Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference Learning](https://arxiv.org/abs/2509.23285) | 2025 |
+| [Demystifying Reinforcement Learning in Agentic Reasoning](https://arxiv.org/abs/2510.11701) | 2025 |
 | [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007) | 2025 |
 | [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/abs/2504.11536) | 2025 |
 | [ZeroSearch: Incentivize the Search Capability of LLMs Without Searching](https://arxiv.org/abs/2505.04588) | 2025 |
@@ -779,7 +787,9 @@ If you find this repository or paper useful, please consider citing the survey p
 | [CodePlan: Repository-level Coding using LLMs and Planning](https://arxiv.org/abs/2309.12499) | FSE 2024 |
 | [Multi-stage guided code generation for Large Language Models](https://www.sciencedirect.com/science/article/abs/pii/S095219762401649X) | Eng. App. AI 2025 |
 | [CodeTree: Agent-Guided Tree Search for Code Generation with Large Language Models](https://arxiv.org/abs/2411.04329) | 2024 |
+| [DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning](https://arxiv.org/abs/2407.04078) | 2024 |
 | [Tree-of-Code: A Self-Growing Tree Framework for End-to-End Code Generation and Execution in Complex Tasks](https://aclanthology.org/2025.findings-acl.509/) | ACL 2025 |
+| [CoRT: Code-integrated Reasoning within Thinking](https://arxiv.org/abs/2506.09820/) | 2025 |
 | [DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal](https://arxiv.org/abs/2503.14269) | 2025 |
 | [Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6f479ea488e0908ac8b1b37b27fd134c-Abstract-Conference.html) | NeurIPS 2024 |
 | [VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning](https://arxiv.org/abs/2408.08927) | AAAI 2025 |
