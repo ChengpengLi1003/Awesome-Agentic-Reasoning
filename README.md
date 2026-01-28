@@ -299,7 +299,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Attribute Controlled Fine-tuning for Large Language Models: A Case Study on Detoxification](https://arxiv.org/abs/2410.05559) | EMNLP 2024 |
 | [Transformer Copilot: Learning from The Mistake Log in LLM Fine-tuning](https://arxiv.org/abs/2505.16270) | 2025 |
 | [iTool: Reinforced Fine-Tuning with Dynamic Deficiency Calibration for Advanced Tool Use](https://arxiv.org/abs/2501.09766v5) | 2025 |
-| [START: Self-taught Reasoner with Tools](https://arxiv.org/abs/2503.04625) | 2025 |
+| [START: Self-taught Reasoner with Tools](https://arxiv.org/abs/2503.04625) | EMNLP 2025 |
 
 
 ##### Mastery of Tool Use via RL
@@ -793,7 +793,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [CodeTree: Agent-Guided Tree Search for Code Generation with Large Language Models](https://arxiv.org/abs/2411.04329) | 2024 |
 | [DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning](https://arxiv.org/abs/2407.04078) | 2024 |
 | [Tree-of-Code: A Self-Growing Tree Framework for End-to-End Code Generation and Execution in Complex Tasks](https://aclanthology.org/2025.findings-acl.509/) | ACL 2025 |
-| [CoRT: Code-integrated Reasoning within Thinking](https://arxiv.org/abs/2506.09820/) | 2025 |
+| [CoRT: Code-integrated Reasoning within Thinking](https://arxiv.org/abs/2506.09820/) | NIPS 2025 |
 | [DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal](https://arxiv.org/abs/2503.14269) | 2025 |
 | [Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6f479ea488e0908ac8b1b37b27fd134c-Abstract-Conference.html) | NeurIPS 2024 |
 | [VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning](https://arxiv.org/abs/2408.08927) | AAAI 2025 |
